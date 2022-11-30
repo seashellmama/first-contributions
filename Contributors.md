@@ -666,6 +666,7 @@ Yash Rustogi
 - [Shreyash Gupta](https://github.com/shreyash2610)
 - [Manish Kumar](https://github.com/Manish-kumar-DEV)
 - [Nora Aguirre](https://github.com/nora-programadora)
+- [Sea Shellmama](https://github.com/seashellmama)
 - [Guna Abola](https://github.com/g-abola)
 - [Shabana Naik](https://github.com/ShabanaNaik)
 - [Alex Sanzhanov](https://github.com/Sanzhanov)
